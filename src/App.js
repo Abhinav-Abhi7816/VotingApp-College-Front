@@ -22,7 +22,7 @@ function App() {
       <Route path="admin" element={<Admin></Admin>}></Route>
     </Route>
   ),
-  { basename:"/Voting_App" })
+  { basename:"/VotingApp-College-Front" })
   return (
     <div className="App">
       <DataContextProvider value={{logName,setLogName}}>
