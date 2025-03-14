@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VotingApp-College-Front/static/css/main.e93871b6.css",
+    "main.js": "/VotingApp-College-Front/static/js/main.06feedaa.js",
+    "static/js/453.cb859ea1.chunk.js": "/VotingApp-College-Front/static/js/453.cb859ea1.chunk.js",
+    "index.html": "/VotingApp-College-Front/index.html",
+    "main.e93871b6.css.map": "/VotingApp-College-Front/static/css/main.e93871b6.css.map",
+    "main.06feedaa.js.map": "/VotingApp-College-Front/static/js/main.06feedaa.js.map",
+    "453.cb859ea1.chunk.js.map": "/VotingApp-College-Front/static/js/453.cb859ea1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e93871b6.css",
+    "static/js/main.06feedaa.js"
+  ]
+}
