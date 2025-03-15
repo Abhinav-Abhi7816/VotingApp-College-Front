@@ -48,6 +48,7 @@ function VotingPage() {
             {
                 (!cData)?null:<div className='md:p-4 p-2'>
                     <h1 className='md:text-3xl text-sm text-nowrap md:px-8 px-4 font-semibold border-b-4 border-black py-1'>Malla Reddy College Of Engineering</h1>
+                    <h1 className='md:text-3xl text-sm text-nowrap md:px-8 px-4 font-semibold py-1 text-center'>Role: {cData[0].post}</h1>
                 </div>
             }
             { 
