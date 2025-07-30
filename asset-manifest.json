@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/VotingApp-College-Front/static/css/main.e93871b6.css",
-    "main.js": "/VotingApp-College-Front/static/js/main.daad960e.js",
+    "main.css": "/VotingApp-College-Front/static/css/main.f003eb02.css",
+    "main.js": "/VotingApp-College-Front/static/js/main.2b0fe3b9.js",
     "static/js/453.cb859ea1.chunk.js": "/VotingApp-College-Front/static/js/453.cb859ea1.chunk.js",
     "index.html": "/VotingApp-College-Front/index.html",
-    "main.e93871b6.css.map": "/VotingApp-College-Front/static/css/main.e93871b6.css.map",
-    "main.daad960e.js.map": "/VotingApp-College-Front/static/js/main.daad960e.js.map",
+    "main.f003eb02.css.map": "/VotingApp-College-Front/static/css/main.f003eb02.css.map",
+    "main.2b0fe3b9.js.map": "/VotingApp-College-Front/static/js/main.2b0fe3b9.js.map",
     "453.cb859ea1.chunk.js.map": "/VotingApp-College-Front/static/js/453.cb859ea1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e93871b6.css",
-    "static/js/main.daad960e.js"
+    "static/css/main.f003eb02.css",
+    "static/js/main.2b0fe3b9.js"
   ]
 }
