@@ -4,7 +4,7 @@ function CandidatesDataComp({ canObj }) {
     return (
         <div>
             <section className="text-gray-600 body-font">
-                <div className="bg-[#d8ebf2] container mx-auto flex px-5 py-10 md:flex-col flex-col rounded-lg min-w-[335px] md:w-[450px] " style={{boxShadow:"0px 0px 20px rgb(0,0,0,0.3)"}}>
+                <div className="bg-[#d8ebf2] container mx-auto flex px-5 py-10 md:flex-col flex-col rounded-lg min-w-[310px] md:w-[430px] " style={{boxShadow:"0px 0px 20px rgb(0,0,0,0.3)"}}>
                     <div className='flex place-items-center '>
                         <div className="md:w-36 md:h-36  bg-white border-4 border-slate-600 overflow-hidden object-cover object-center flex-shrink-0 rounded-full mr-4 place-content-center" style={{boxShadow:"0px 0px 15px rgb(0,0,0,0.3)"}}>
                             <img className="md:w-48 w-20" alt="hero" src={canObj.imageUrl} />

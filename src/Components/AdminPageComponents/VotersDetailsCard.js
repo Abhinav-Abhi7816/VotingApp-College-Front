@@ -13,7 +13,7 @@ function VotersDetailsCard({voterDetailsObj}) {
       <div className='bg-[rgb(0,0,0,0.2)] md:p-8 p-4 rounded-lg '>
             <section className="text-gray-600 body-font ">
                 <div className="bg-[#d8ebf2] container flex md:px-16 px-8 md:py-10 py-4 md:flex-col flex-col rounded-lg " style={{boxShadow:"0px 0px 20px rgb(0,0,0,0.3)"}}>
-                    <div className="flex flex-col md:text-xl text-sm gap-3 min-w-[230px]  md:w-[250px] ">
+                    <div className="flex flex-col md:text-xl text-sm gap-3 min-w-[210px]  md:w-[230px] ">
                         <p className='md:text-2xl text-lg font-semibold text-gray-700'>Name : {voterDetailsObj.name}</p>
                         <p>Username : {voterDetailsObj.username}</p>
                         <p>Age : {voterDetailsObj.age}</p>

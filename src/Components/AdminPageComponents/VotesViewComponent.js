@@ -5,8 +5,8 @@ function VotesViewComponent({ votesViewObj, pos }) {
         <div>
             <div className="container text-sm mx-auto min-w-fit">
                 <div className="p-2 lg:w-1/3 md:w-1/2 w-full">
-                    <div className="h-full flex items-center bg-blue-200 min-w-[300px] lg:min-w-[470px] border p-4 rounded-xl shadow-2xl">
-                        <div className="lg:w-36 lg:h-36 w-fit bg-red-200 border-4 border-slate-600 overflow-hidden object-cover object-center flex-shrink-0 rounded-full mr-4 place-content-center" >
+                    <div className="h-full flex items-center bg-blue-200 min-w-[280px] lg:min-w-[450px] border p-4 rounded-xl shadow-2xl">
+                        <div className="lg:w-36 lg:h-36 w-fit bg-white border-4 border-slate-600 overflow-hidden object-cover object-center flex-shrink-0 rounded-full mr-4 place-content-center" >
                             <img alt="team" src={votesViewObj.imgUrl} className='md:w-48 w-20' />
                         </div>
                         <div className="flex-grow lg:text-xl">
